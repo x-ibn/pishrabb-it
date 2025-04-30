@@ -32,3 +32,14 @@ phishing-scanner/
 ├── requirements.txt        # Dependencies
 ├── logs/                   # Auto-generated log files
 ├── images/                 # (Optional) Screenshots or docs
+
+
+---
+
+## ⚙️ Installation
+
+Clone this repository:
+
+```bash
+git clone https://github.com/x-ibn/pishrabb-it
+cd pishrabb-it

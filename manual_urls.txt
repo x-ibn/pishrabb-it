@@ -1,0 +1,9 @@
+# ===== MANUAL URLS =====
+# Put manual URLs you want to force scan here.
+# Example:
+
+# https://example.com/phishing-page
+# https://anotherexample.ex.ex/suspicious?id=yourbrand
+
+# (One URL per line, without "#" in front if active)
+

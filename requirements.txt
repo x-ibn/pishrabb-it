@@ -1,0 +1,5 @@
+requests
+cloudscraper
+python-dotenv
+colorama
+beautifulsoup4
